@@ -1,0 +1,33 @@
+# Directories
+/target/
+/cargo/
+/.idea/
+
+# Compiled files
+**/*.rs.bk
+**/*.rlib
+**/*.rmeta
+**/*.rmeta.bk
+**/*.o
+**/*.d
+**/*.gcno
+**/*.gcda
+**/*.rmeta.orig
+
+# Generated files
+Cargo.lock
+
+# Editors
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.idea/
+
+# Others
+*.swp
+*.swo
+*.bak
+*.tmp
+*.patch
+*.diff
+*.orig
